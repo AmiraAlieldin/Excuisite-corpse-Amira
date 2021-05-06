@@ -9,3 +9,11 @@ let's make it awesome
 *Hi Amira!*
 **Have a great day : **
 > See you - Ceren.
+
+```python  
+function hiAmira(arg):  
+  if arg: {  
+    print('Hi Amira')  
+  else:  
+    print('Bye Amira')  
+```
